@@ -1,5 +1,5 @@
 ;**********************************************************************
-;   IR Remote Control Transmitter Reference Implementation           *
+;   IR Remote Control Transmitter Reference Implementation            *
 ;                                                                     *
 ;**********************************************************************
 ;                                                                     *
