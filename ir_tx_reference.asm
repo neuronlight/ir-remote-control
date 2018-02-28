@@ -67,7 +67,7 @@ c2		equ 0x24			; counter
 		bcf	OPTION_REG,PSA
 		bcf	OPTION_REG,PS1
 		bcf	OPTION_REG,PS2
-		;bcf	OPTION_REG,NOT_RBPU
+		;bcf	OPTION_REG,NOT_RBPU	; uncomment to enable weak pull-ups on PORTB
 		
 		bcf     STATUS,RP0		; switch to bank 0
 
